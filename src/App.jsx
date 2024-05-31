@@ -1,6 +1,7 @@
 
 import './App.css'
 import Me from "./Me"
+import Names from "./Names"
 
 function Myfirstcomponent(){
   return(
@@ -19,6 +20,8 @@ function App() {
 <Myfirstcomponent/>
 <Myfirstcomponent/>
 <Me/>
+<Names names = "joseph"/>
+<Names names = "mbugua"/>
     </>
   )
 }
