@@ -1,7 +1,6 @@
 
 import './App.css'
-import Me from "./Me"
-import Names from "./Names"
+
 
 function Myfirstcomponent(){
   return(
@@ -16,12 +15,7 @@ function App() {
   return (
     <>
 <h1>Hello world!</h1>
-<Myfirstcomponent/>
-<Myfirstcomponent/>
-<Myfirstcomponent/>
-<Me/>
-<Names names = "joseph" lnames="kariuki" />
-<Names lnames = "mbugua"/>
+
     </>
   )
 }
