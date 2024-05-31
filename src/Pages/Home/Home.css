@@ -16,7 +16,7 @@
 
 
 }
-.mission{
+.hero h1{
     text-transform: capitalize;
     text-decoration: none;
     font-family: "Nunito Sans", sans-serif;
@@ -26,13 +26,38 @@
     font-size: 5rem;
     margin-bottom: 2rem;
 }
-.themission{
+.hero p{
     text-transform: capitalize;
     text-decoration: none;
     font-family: "Noto Sans Sundanese", sans-serif;;
     color:#fff;
-    font-weight: 400;
-    font-size: 3rem;
+    font-weight: 600;
+    font-size: 2rem;
     padding-left: 6rem;
     
 }
+
+@media screen (max-width:34.375em){
+    .hero{
+        height: 40vh;
+        flex-wrap:wrap;
+        
+        } 
+        
+    }
+
+.hero a{
+    color: var(--primary_color);
+    font-weight: 900;
+
+    background-color: var(--light_color);
+    border-radius: 10%;
+    width: 15rem;
+    height: 3rem;
+    padding-left: 3.5rem;
+    margin-top: 12rem;
+    text-decoration: none;
+    opacity: .9;
+    font-size: 2rem;
+}    
+
