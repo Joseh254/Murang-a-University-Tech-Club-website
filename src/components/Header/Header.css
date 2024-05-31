@@ -1,0 +1,17 @@
+.topHeader{
+    justify-content: space-between;
+    display: flex;
+}
+
+.social_accounts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.accounts{
+    display: flex;
+    gap: 5rem;
+
+}

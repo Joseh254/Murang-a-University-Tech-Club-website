@@ -16,12 +16,18 @@ function Social_accounts({icon,content}){
 function Topheader (){
     return(
 <>
+<section className="topHeader">
+
 <div className="welcome">
     <h1>Murang'a University Tech Club</h1>
 </div>
+<div className="accounts">
 <Social_accounts icon={<MdOutlineMailOutline/>} content={"mutc@gmail.com"}/>
 <Social_accounts icon={<FaUniversity/>} content={"Murang'a University"}/>
 <Social_accounts icon={<FaSquarePhone/>} content={"+254768163608"}/>
+</div>
+</section>
+
 
 </>
     )
