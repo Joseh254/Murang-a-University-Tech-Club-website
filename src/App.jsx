@@ -5,6 +5,7 @@ import Home from "./Pages/Home/Home";
 import Leaders from "./Pages/Leaders/Leaders";
 import Events from "./Pages/Events/Events";
 import Tracks from "./Pages/Tracks/Tracks";
+import Footer from "./components/Header/Footer/Footer";
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
   <Route path="/Events" element={<Events/>}/>
 </Routes>
 </BrowserRouter>
+<Footer/>
     </>
   )
 }

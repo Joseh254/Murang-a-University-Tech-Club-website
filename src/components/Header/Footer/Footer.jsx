@@ -1,9 +1,9 @@
-import "/Footer.css"
+import "./Footer.css"
 function Footer(){
 return(
 
-    <div>
-        footer
+    <div className="footer">
+        <p>Murang'a University Tech Club (MUTC)</p>
     </div>
 )
 }
