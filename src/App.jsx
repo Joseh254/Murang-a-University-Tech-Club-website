@@ -1,44 +1,13 @@
 
 import './App.css'
-import Login from './Login'
 
-
-function Myfirstcomponent(){
-  return(
-    <div>
-      <h1>This is a component</h1>
-    </div>
-  )
-}
-
-function Greet({username}){
-  if (username ===undefined)
-
-    {return(<h1>Welcome guest</h1>)}
-      
-
-    else{
-      return(<h1>Welcome {username}</h1>)
-    }
-  
-}
-
-const Play_video = ({age})=>
-  {
-  if(age<18) {
-    return(<p>you cannot play this video</p>)
-  }
-  else{
-    return(<p>play video</p>)
-  }
-}
-
-function Play_game(eye){
-  return(
-    eye = true ? <p>continue playing</p> :
-     <p>you cannot play</p>
-  )
-  
+function Student({fname,lname}){
+return(
+  <div>
+    <h1>{fname} is his first name</h1>
+    {lname && <a href={lname}>{lname} is his facebook name</a>}
+  </div>
+)
 }
 
 function App() {
@@ -46,11 +15,8 @@ function App() {
   return (
     <>
 <h1>Hello world!</h1>
-<Myfirstcomponent/>
-<Login Isloggedin ={true}/>
-<Greet username="joseph"/>
-<Play_video age ={20}/>
-<Play_game eye ={true}/>
+<Student fname={'joseph'} lname={"mbugua"}/>
+
 
     </>
   )
