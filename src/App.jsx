@@ -23,6 +23,16 @@ function Greet({username}){
   
 }
 
+const Play_video = ({age})=>
+  {
+  if(age>=18) {
+    return(<p>you cannot play this video</p>)
+  }
+  else{
+    return(<p>play video</p>)
+  }
+}
+
 function App() {
 
   return (
@@ -31,6 +41,7 @@ function App() {
 <Myfirstcomponent/>
 <Login Isloggedin ={true}/>
 <Greet username="joseph"/>
+<Play_video age ={20}/>
 
     </>
   )
