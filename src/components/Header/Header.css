@@ -83,7 +83,7 @@ justify-content: center;
     border-radius: 10%;
 }
 
-@media screen and(max-width:37.5em){
+@media screen and (max-width:37.5em){
     .vigation_bar{
         flex-wrap: wrap;
         justify-content: center;
@@ -94,4 +94,24 @@ justify-content: center;
         max-width: 540px;
         font-size: smaller;
     }
+}
+
+@media screen and(max-width:34.0625em){
+
+    .topHeader{
+        flex-wrap: wrap;
+        background-color: var(--light_color);
+        max-width: 100%;
+        margin: 0;
+        
+    }
+
+    .Bottomheader{
+        flex-wrap: wrap;
+        background-color:#FFF;
+        max-width: 100%;
+        margin: 0;
+
+    }
+    
 }

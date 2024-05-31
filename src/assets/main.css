@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+:root{
+    --font: "Nunito Sans", sans-serif;
+}
+
 html{
     
     font-size: 62.5%; /* 1rem = 10px */

@@ -1,6 +1,9 @@
+import Hero from "./Hero";
 function Home(){
     return(
-        <p>home</p>
+        <>
+    <Hero/>
+        </>
     )
 }
 export default Home;
