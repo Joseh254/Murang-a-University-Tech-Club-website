@@ -1,6 +1,8 @@
+
 function Names(props){
     return(
-<p>hello {props.names} </p>
+<p>hello {props.names} {props.lnames} </p>
+
     )
 }
 

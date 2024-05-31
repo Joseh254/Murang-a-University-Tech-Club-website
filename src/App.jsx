@@ -20,8 +20,8 @@ function App() {
 <Myfirstcomponent/>
 <Myfirstcomponent/>
 <Me/>
-<Names names = "joseph"/>
-<Names names = "mbugua"/>
+<Names names = "joseph" lnames="kariuki" />
+<Names lnames = "mbugua"/>
     </>
   )
 }
