@@ -1,0 +1,15 @@
+.Leaders {
+  background-color: var(--primary_color);
+  color: var(--color_white);
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.introduction p {
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+  font-style: italic;
+}

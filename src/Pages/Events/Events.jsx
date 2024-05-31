@@ -1,6 +1,4 @@
-function Events(){
-    return(
-        <p>events</p>
-    )
+function Events() {
+  return <p>events</p>;
 }
 export default Events;
