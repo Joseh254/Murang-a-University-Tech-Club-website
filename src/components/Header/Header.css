@@ -1,6 +1,16 @@
 .topHeader{
     justify-content: space-between;
     display: flex;
+    align-items: center;
+    background-color:var(--light_color#DFD0B8);
+    margin-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.welcome{
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 .social_accounts{
@@ -8,6 +18,12 @@
     justify-content: center;
     align-items: center;
     gap: 2rem;
+}
+
+.icons{
+fill: color(var(--primary_color#153448));
+align-items: center;
+justify-content: center;
 }
 
 .accounts{
