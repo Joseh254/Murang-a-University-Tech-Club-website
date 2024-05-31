@@ -11,8 +11,8 @@ function Myfirstcomponent(){
   )
 }
 
-function Greet(username){
-  if (username = "")
+function Greet({username}){
+  if (username ===undefined)
 
     {return(<h1>Welcome guest</h1>)}
       
@@ -30,7 +30,7 @@ function App() {
 <h1>Hello world!</h1>
 <Myfirstcomponent/>
 <Login Isloggedin ={true}/>
-<Greet username =""/>
+<Greet username="joseph"/>
 
     </>
   )
