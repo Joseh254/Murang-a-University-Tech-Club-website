@@ -8,6 +8,21 @@
     padding-right: 1rem;
 }
 
+@media  screen and (max-width: 44.375em){
+    .topHeader{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-wrap: wrap;
+        
+    }
+
+    .welcome{
+        margin-bottom: 1rem;
+        justify-content: center;
+    }
+
+}
 .welcome{
     text-decoration: none;
     text-transform: uppercase;
