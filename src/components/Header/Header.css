@@ -82,3 +82,16 @@ justify-content: center;
     padding: .5rem;
     border-radius: 10%;
 }
+
+@media screen and(max-width:37.5em){
+    .vigation_bar{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .Bottomheader{
+        display: none;
+        max-width: 540px;
+        font-size: smaller;
+    }
+}
