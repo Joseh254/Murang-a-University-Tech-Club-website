@@ -1,4 +1,5 @@
+import "./Tracks.css";
 function Tracks() {
-  return <p>tracks</p>;
+  return <div></div>;
 }
 export default Tracks;
