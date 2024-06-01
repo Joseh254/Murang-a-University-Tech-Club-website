@@ -1,0 +1,10 @@
+.introduct{
+    background-color: var(--secondary_color);
+    color: var(--color_white);
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
