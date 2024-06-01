@@ -13,7 +13,7 @@ function Leaders() {
 
        
        <div className="ndia">
-        <img src="" alt="dr John ndia" />
+        <img src="../src/assets/hero.jpg" alt="dr John ndia" />
         <h1>Dr. John Ndia</h1>
         <p>
         Dr. John Ndia is a distinguished professor and an esteemed patron of the Murang'a University Tech Club. With over 20 years of experience in the field of computer science and technology, 
@@ -21,7 +21,7 @@ function Leaders() {
       </div>
 {/* **************************************************************************************************8 */}
       <div className="victory">
-        <img src="" alt="Victory Njeri" />
+        <img src="../src/assets/hero.jpg" alt="Victory Njeri" />
         <h1>Victory Njeri</h1>
         <p>
         Dr. John Ndia is a distinguished professor and an esteemed patron of the Murang'a University Tech Club. With over 20 years of experience in the field of computer science and technology,
@@ -29,7 +29,7 @@ function Leaders() {
       </div>
       {/* ****************************************************************************************************8 */}
       <div className="allan">
-        <img src="" alt="allan" />
+        <img src="../src/assets/hero.jpg" alt="allan" />
         <h1>Allan Muhari</h1>
         <p>
         Dr. John Ndia is a distinguished professor and an esteemed patron of the Murang'a University Tech Club. With over 20 years of experience in the field of computer science and technology, 
@@ -37,7 +37,7 @@ function Leaders() {
       </div>
       {/* ************************************************************************************************* */}
       <div className="bridget">
-        <img src="" alt="bridget" />
+        <img src="../src/assets/hero.jpg" alt="bridget" />
         <h1>Bridget Gitonga</h1>
         <p>
         Dr. John Ndia is a distinguished professor and an esteemed patron of the Murang'a University Tech Club. With over 20 years of experience in the field of computer science and technology, b.
@@ -57,7 +57,7 @@ function Leaders() {
 {/* ********************************************************************************************* */}
        
 <div className="webster">
-        <img src="" alt="Webster Ifedha" />
+        <img src="../src/assets/hero.jpg" alt="Webster Ifedha" />
         <h1>Webster Ifedha</h1>
         <p>
         Dr. John Ndia is a distinguished professor and an esteemed patron of the Murang'a University Tech Club. With over 20 years of experience in the field of computer science and technology,.
@@ -68,7 +68,7 @@ function Leaders() {
        
 
       <div className="manase">
-        <img src="" alt="Manase Gunga" />
+        <img src="../src/assets/hero.jpg" alt="Manase Gunga" />
         <h1>Manase Gunga</h1>
         <p>
         Dr. John Ndia is a distinguished professor and an esteemed patron of the Murang'a University Tech Club. With over 20 years of experience in the field of computer science and technology, 
@@ -80,7 +80,7 @@ function Leaders() {
        {/* ********************************************************************************************* */}
        
 <div className="caro">
-        <img src="" alt="Carolyne Githenduka" />
+        <img src="../src/assets/hero.jpg" alt="Carolyne Githenduka" />
         <h1>Carolyne Githenduka</h1>
         <p>
         Dr. John Ndia is a distinguished professor and an esteemed patron of the Murang'a University Tech Club. With over 20 years of experience in the field of computer science and technology, Dr. Ndia has been instrumental in guiding the club's activities and initiatives..
@@ -91,7 +91,7 @@ function Leaders() {
       </div>
 <div className="ourleaders">
       <div className="stanley">
-        <img src="" alt="Stanley Amunze" />
+        <img src="../src/assets/hero.jpg" alt="Stanley Amunze" />
         <h1>Stanley Amunze</h1>
         <p>
         Dr. John Ndia is a distinguished professor and an esteemed patron of the Murang'a University Tech Club. With over 20 years of experience in the field of computer science and technology, Dr. Ndia has been instrumental in guiding the club's activities and initiatives.
@@ -102,7 +102,7 @@ function Leaders() {
        
 
       <div className="caro">
-        <img src="" alt="Carolyne Githenduka" />
+        <img src="../src/assets/hero.jpg" alt="Carolyne Githenduka" />
         <h1>Carolyne Githenduka</h1>
         <p>
         Dr. John Ndia is a distinguished professor and an esteemed patron of the Murang'a University Tech Club. With over 20 years of experience in the field of computer science and technology, Dr. Ndia has been instrumental in guiding the club's activities and initiatives..
@@ -110,15 +110,6 @@ function Leaders() {
       </div>
 
       {/* ********************************************************************************************8 */}
-      </div>
-
-
-      <div className="caro">
-        <img src="" alt="Carolyne Githenduka" />
-        <h1>Carolyne Githenduka</h1>
-        <p>
-        Dr. John Ndia is a distinguished professor and an esteemed patron of the Murang'a University Tech Club. With over 20 years of experience in the field of computer science and technology, Dr. Ndia has been instrumental in guiding the club's activities and initiatives..
-        </p>
       </div>
 
       {/* ********************************************************************************************8 */}
