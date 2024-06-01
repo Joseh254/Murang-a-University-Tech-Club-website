@@ -44,10 +44,18 @@
   width: 90%;
   grid-template-columns: 4fr 1fr;
   padding-top: 5rem;
+;
 }
 
 .ourleaders img {
   height: 5rem;
   width: 5rem;
   border-radius: 100%;
+}
+
+
+.ndia{
+width: 40rem; 
+
+
 }

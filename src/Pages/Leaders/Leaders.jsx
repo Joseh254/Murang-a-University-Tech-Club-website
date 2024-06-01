@@ -20,7 +20,7 @@ function Leaders() {
           </p>
         </div>
         {/* **************************************************************************************************8 */}
-        <div className="victory">
+        <div className="ndia">
           <img src="../src/assets/hero.jpg" alt="Victory Njeri" />
           <h1>Victory Njeri</h1>
           <p>
@@ -30,7 +30,7 @@ function Leaders() {
           </p>
         </div>
         {/* ****************************************************************************************************8 */}
-        <div className="allan">
+        <div className="ndia">
           <img src="../src/assets/hero.jpg" alt="allan" />
           <h1>Allan Muhari</h1>
           <p>
@@ -40,7 +40,7 @@ function Leaders() {
           </p>
         </div>
         {/* ************************************************************************************************* */}
-        <div className="bridget">
+        <div className="ndia">
           <img src="../src/assets/hero.jpg" alt="bridget" />
           <h1>Bridget Gitonga</h1>
           <p>
@@ -53,7 +53,7 @@ function Leaders() {
       </div>
 
       <div className="ourleaders">
-        <div className="ruth">
+        <div className="ndia">
           <img src="" alt="Ruth Mutisya" />
           <h1>Ruth Mutisya</h1>
           <p>
@@ -64,7 +64,7 @@ function Leaders() {
         </div>
         {/* ********************************************************************************************* */}
 
-        <div className="webster">
+        <div className="ndia">
           <img src="../src/assets/hero.jpg" alt="Webster Ifedha" />
           <h1>Webster Ifedha</h1>
           <p>
@@ -76,7 +76,7 @@ function Leaders() {
 
         {/* ********************************************************************************************8 */}
 
-        <div className="manase">
+        <div className="ndia">
           <img src="../src/assets/hero.jpg" alt="Manase Gunga" />
           <h1>Manase Gunga</h1>
           <p>
@@ -90,7 +90,7 @@ function Leaders() {
 
         {/* ********************************************************************************************* */}
 
-        <div className="caro">
+        <div className="ndia">
           <img src="../src/assets/hero.jpg" alt="Carolyne Githenduka" />
           <h1>Carolyne Githenduka</h1>
           <p>
@@ -103,7 +103,7 @@ function Leaders() {
 
         {/* ********************************************************************************************8 */}
       </div>
-      <div className="ourleaders">
+      <div className="ndia">
         <div className="stanley">
           <img src="../src/assets/hero.jpg" alt="Stanley Amunze" />
           <h1>Stanley Amunze</h1>
@@ -117,7 +117,7 @@ function Leaders() {
 
         {/* ******************************************************************************************** */}
 
-        <div className="caro">
+        <div className="ndia">
           <img src="../src/assets/hero.jpg" alt="Carolyne Githenduka" />
           <h1>Carolyne Githenduka</h1>
           <p>
