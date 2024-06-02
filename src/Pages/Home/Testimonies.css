@@ -1,5 +1,6 @@
 .textimonies {
   background-color: var(--light_color);
+
 }
 .testimonies h1 {
   font-size: 4rem;
@@ -26,6 +27,7 @@
   color: white;
   padding-top: 2rem;
   padding: 1.5rem;
+  line-height: 3rem;
 }
 
 .members h2 {

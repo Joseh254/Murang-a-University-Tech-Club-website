@@ -7,6 +7,7 @@
   padding-top: 15rem;
   gap: 15rem;
   padding-right: 1rem;
+  line-height: 3rem;
 }
 
 .socials {
@@ -17,4 +18,9 @@
 }
 .socials p {
   width: 40%;
+}
+
+.vision h1{
+  color: var(--light_color);
+  font-weight: 600;
 }
