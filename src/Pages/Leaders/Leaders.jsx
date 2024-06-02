@@ -49,6 +49,11 @@ function Leaders({fb,ig,x,ln}) {
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology,
           </p>
+          <div className="iconss">
+          <Social icon ={<FaFacebookF/>}/>
+            <Social icon ={<FaInstagramSquare/>}/>
+            <Social icon ={<FaXTwitter/>}/> 
+          </div>
         </div>
         {/* ****************************************************************************************************8 */}
         <div className="ndia">
@@ -59,6 +64,11 @@ function Leaders({fb,ig,x,ln}) {
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology,
           </p>
+          <div className="iconss">
+          <Social icon ={<FaFacebookF/>}/>
+            <Social icon ={<FaInstagramSquare/>}/>
+            <Social icon ={<FaXTwitter/>}/> 
+          </div>
         </div>
         {/* ************************************************************************************************* */}
         <div className="ndia">
@@ -70,9 +80,13 @@ function Leaders({fb,ig,x,ln}) {
             in the field of computer science and technology, b.
           </p>
           <div className="media"> 
+        </div>
 
-
-</div>
+        <div className="iconss">
+          <Social icon ={<FaFacebookF/>}/>
+            <Social icon ={<FaInstagramSquare/>}/>
+            <Social icon ={<FaXTwitter/>}/> 
+          </div>
         </div>
         {/* ******************************************************************************************************* */}
       </div>
@@ -86,6 +100,12 @@ function Leaders({fb,ig,x,ln}) {
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology,.
           </p>
+
+          <div className="iconss">
+          <Social icon ={<FaFacebookF/>}/>
+            <Social icon ={<FaInstagramSquare/>}/>
+            <Social icon ={<FaXTwitter/>}/> 
+          </div>
         </div>
         {/* ********************************************************************************************* */}
 
@@ -97,6 +117,12 @@ function Leaders({fb,ig,x,ln}) {
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology,.
           </p>
+
+          <div className="iconss">
+          <Social icon ={<FaFacebookF/>}/>
+            <Social icon ={<FaInstagramSquare/>}/>
+            <Social icon ={<FaXTwitter/>}/> 
+          </div>
         </div>
 
         {/* ********************************************************************************************8 */}
@@ -109,6 +135,12 @@ function Leaders({fb,ig,x,ln}) {
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology,
           </p>
+
+          <div className="iconss">
+          <Social icon ={<FaFacebookF/>}/>
+            <Social icon ={<FaInstagramSquare/>}/>
+            <Social icon ={<FaXTwitter/>}/> 
+          </div>
         </div>
 
         {/* ******************************************************************************************** */}
@@ -124,6 +156,12 @@ function Leaders({fb,ig,x,ln}) {
             in the field of computer science and technology, Dr. Ndia has been
             instrumental in guiding the club's activities and initiatives..
           </p>
+
+          <div className="iconss">
+          <Social icon ={<FaFacebookF/>}/>
+            <Social icon ={<FaInstagramSquare/>}/>
+            <Social icon ={<FaXTwitter/>}/> 
+          </div>
         </div>
 
         {/* ********************************************************************************************8 */}
@@ -142,6 +180,12 @@ function Leaders({fb,ig,x,ln}) {
             in the field of computer science and technology, Dr. Ndia has been
             instrumental in guiding the club's activities and initiatives..
           </p>
+
+          <div className="iconss">
+          <Social icon ={<FaFacebookF/>}/>
+            <Social icon ={<FaInstagramSquare/>}/>
+            <Social icon ={<FaXTwitter/>}/> 
+          </div>
         </div>
 
         <div className="aquote">

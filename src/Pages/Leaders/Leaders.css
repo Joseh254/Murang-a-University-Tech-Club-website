@@ -1,7 +1,7 @@
 .Leaders {
   background-color: var(--primary_color);
   color: var(--color_white);
-  height: 150vh;
+  height: 170vh;
   display: block;
   align-items: center;
   justify-content: center;
@@ -52,6 +52,23 @@
   height: 5rem;
   width: 5rem;
   border-radius: 100%;
+}
+
+.iconss{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  color: var(--light_color);
+  font-size: small;
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
+
+.iconss:hover{
+  scale: .9;
+  transition: all.5s ease-in-out;
 }
 
 
