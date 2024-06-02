@@ -1,0 +1,16 @@
+.timetable{
+display: flex;
+flex-direction: column;
+gap: 2rem;
+background-color: var(--secondary_color);
+color: var(--light_color);
+}
+
+.cyber{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+
+}
