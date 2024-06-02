@@ -1,4 +1,12 @@
+import "./Events.css"
 function Events() {
-  return <p>events</p>;
+  return (
+    <section className="timetable">
+      
+
+
+    </section>
+
+  );
 }
 export default Events;

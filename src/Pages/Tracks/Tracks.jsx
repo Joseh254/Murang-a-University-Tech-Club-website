@@ -52,7 +52,50 @@ function Tracks() {
   </div>
 
   </div>
+{/* ********************************************************************8 */}
+  <section className="form">
+    <form className="theform">
 
+  <div className="contacts" id="fullname">
+  <label htmlFor="fullname">Full Name</label>
+  <input type="text" placeholder="Full Name" required />
+  </div>
+
+  <div className="contacts" id="email">
+  <label htmlFor="email">Email Address</label>
+  <input type="email"  placeholder="Email adress" required/>
+  </div>
+
+  <div className="contacts" id="course">
+  <label htmlFor="course">Current Course</label>
+  <input type="text" placeholder="Current Course"required />
+  </div>
+
+  <div className="contacts" id="yearofstudy">
+  <label htmlFor="yearofstudy">Year Of Study</label>
+  <input type="text" placeholder="Year of Study" required />
+  </div>
+
+  <div className="contacts" id="tracks">
+  <label htmlFor="selecttracks">Select Your Desired Track</label>
+   <select name="Cyber Security" id="courses">
+    <option value="Cyber Security">Cyber Security</option>
+    <option value="UI/UX design">UI/UX design</option>
+    <option value="Web development">Web development</option>
+    <option value="Mobile apps development">Mobile apps development</option>
+    <option value="Cloud engineering">Cloud engineering</option>
+    <option value="Power Platform">Power Platform</option>
+  
+  </select>
+  </div>
+
+  <div>
+  <button id="submit">Submit</button>
+  </div>
+    </form>
+
+  </section>
+{/* *************************************************************************8 */}
     </section>
   </div>;
 }

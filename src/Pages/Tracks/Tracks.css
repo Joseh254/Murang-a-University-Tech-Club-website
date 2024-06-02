@@ -14,3 +14,27 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
+
+.contacts{
+    display: flex;
+    flex-direction: column;
+    width: 50rem;
+    gap: .7rem;
+    margin-bottom: 2rem;
+}
+
+.contacts label{
+    text-transform: capitalize;
+    color: var(--primary_color);
+    font-size: large;
+    font-weight: 600;
+}
+
+.contacts input{
+    height: 2rem;
+    padding: 2rem 1.5rem;
+    color: black;
+}
+.contacts button{
+    height: 2rem;
+}
