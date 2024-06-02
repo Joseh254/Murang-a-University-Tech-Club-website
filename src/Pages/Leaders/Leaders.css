@@ -89,7 +89,7 @@ transition: all .5s ease-in-out;
 
 
 .ndiaa{
-  width: 40rem;
+  width: 3rem;
   border: 1px darkgray solid;
   background-color: var(--secondary_color);
   display: flex;
@@ -98,8 +98,7 @@ transition: all .5s ease-in-out;
   justify-content: center;
   padding: 1rem;
   border-radius: 10%;
-  margin-top: 2rem;
-  justify-content: center;
+  margin-top: 3rem;
   }
   
   .ndiaa img{
