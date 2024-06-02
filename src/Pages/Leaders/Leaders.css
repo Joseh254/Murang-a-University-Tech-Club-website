@@ -97,7 +97,12 @@ gap: 20rem;
 .aquote{
 
   margin-top: 10rem;
-  font-size: larger;
+  font-size: 2rem;
+  font-weight: 100;
+  font-style: italic;
+  text-decoration: solid;
+  text-overflow: ellipsis;
+  text-decoration: none;
 }
 
 

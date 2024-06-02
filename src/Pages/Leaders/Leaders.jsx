@@ -120,7 +120,7 @@ function Leaders() {
         </div>
 
         <div className="aquote">
-          <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et dolores atque esse. Sed cum corrupti delectus asperiores itaque, consequatur minus possimus dolorem sint ducimus iste, blanditiis corporis atque. Consequuntur, nemo.</h1>
+          <h7>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et dolores atque esse. Sed cum corrupti delectus asperiores itaque, consequatur minus possimus dolorem sint ducimus iste, blanditiis corporis atque. Consequuntur, nemo.</h7>
         </div>
         </div>
 
