@@ -6,6 +6,7 @@
     margin-left: 15rem;
     justify-content: center;
     align-items: center;
+    font-weight: 600;
 }
 
 .cyber{
@@ -24,9 +25,14 @@ width: 100%;
 }
 
 .foot{
-    background-color: var(--primary_color);
+    background-color: var(--secondary_color);
     color: var(--color_white);
     width: 100%;
+}
+
+.courses{
+    width: 50%;
+    padding: 0;
 }
 
 .schedule{
