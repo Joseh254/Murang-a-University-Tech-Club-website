@@ -13,7 +13,7 @@ function Social({ icon, description }) {
   );
 }
 
-function Leaders() {
+function Leaders({fb,ig,x,ln}) {
   return (
     <section className="Leaders">
       <div className="introduction">
@@ -30,8 +30,15 @@ function Leaders() {
           <p>
             Dr. John Ndia is a distinguished professor and an esteemed patron of
             the Murang'a University Tech Club. With over 20 years of experience
-            in the field of computer science and technology,
+            in the field of c
+
           </p>
+
+          <div className="iconss">
+          <Social icon ={<FaFacebookF/>}/>
+            <Social icon ={<FaInstagramSquare/>}/>
+            <Social icon ={<FaXTwitter/>}/> 
+          </div>
         </div>
         {/* **************************************************************************************************8 */}
         <div className="ndia">
