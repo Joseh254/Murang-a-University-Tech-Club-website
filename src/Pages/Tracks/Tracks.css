@@ -72,12 +72,15 @@ transition: all .5s ease-in-out;
     display: flex;
     flex-direction: row-reverse;
    background-color: aliceblue;
+   padding-top: 2rem;
 }  
 
 .quote{
     padding-top: 15rem;
     padding-right: 5rem;
     padding-left: 3rem;
+    line-height: 3.9rem;
+    font-style: italic;
 }
 
 
