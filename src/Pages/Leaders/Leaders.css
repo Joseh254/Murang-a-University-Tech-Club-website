@@ -1,7 +1,7 @@
 .Leaders {
   background-color: var(--primary_color);
   color: var(--color_white);
-  height: 185vh;
+  height: 200vh;
   display: block;
   align-items: center;
   justify-content: center;
@@ -11,8 +11,9 @@
 }
 
 .introduction {
-  margin-bottom: 1rem;
+  margin-bottom: 3rem;
   height: 10rem;
+  
 }
 
 .introduction p {
@@ -86,6 +87,7 @@ justify-content: center;
 padding: 1rem;
 border-radius: 10%;
 
+
 }
 
 .ndia p:hover{
@@ -143,6 +145,7 @@ gap: 20rem;
   border-radius: 10%;
   margin-top: 4rem;
   margin-left: 3rem;
+  margin-bottom: 3rem;
   }
   
   .ndiaa img{
