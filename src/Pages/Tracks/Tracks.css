@@ -15,6 +15,45 @@
     
 }
 
+.partone{
+display: flex;
+flex-direction: row;
+width: 100%;
+gap: 2rem;
+margin-bottom: 0;
+padding: 1rem;
+background-color: var(--primary_color);
+color: var(--color_white);
+}
+
+.part2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: var(--primary_color);
+    color: var(--color_white);
+    }
+
+    .them_tracks{
+        background-color: var(--secondary_color);
+        padding: 2rem;
+        border-radius: 10%;
+        opacity: 2;
+        
+        
+    }
+
+    .them_tracks:hover{
+background-color: var(--primary_color);
+transition: all .5s ease-in-out;
+
+
+    }
+
+
 .contacts{
     display: flex;
     flex-direction: column;

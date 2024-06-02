@@ -76,6 +76,7 @@ transition: all .5s ease-in-out;
 
   .ndia h1:hover{
     scale: .9;
+    transition: all .5s ease-in-out;
     
       }
 
@@ -98,9 +99,16 @@ transition: all .5s ease-in-out;
   padding: 1rem;
   border-radius: 10%;
   margin-top: 2rem;
+  justify-content: center;
   }
   
   .ndiaa img{
     height: 5rem;
     width: 5rem;
   }
+
+  .ndiaa p:hover{
+   scale: 1.07;
+   transition: all .5s;
+   
+    }

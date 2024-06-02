@@ -9,7 +9,7 @@ function Tracks() {
       </div>
 
       {/* ********************************PART1**************************************************************** */}
-  <div className="part one">
+  <div className="partone">
 
   <div className="them_tracks">
     <h2>Cyber security</h2>
@@ -54,7 +54,7 @@ function Tracks() {
   </div>
 {/* ********************************************************************8 */}
   <section className="form">
-    <form className="theform">
+    <form className="theform"> 
 
   <div className="contacts" id="fullname">
   <label htmlFor="fullname">Full Name</label>
