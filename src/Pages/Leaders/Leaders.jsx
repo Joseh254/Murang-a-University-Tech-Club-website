@@ -1,4 +1,18 @@
 import "./Leaders.css";
+import { Link } from "react-router-dom";
+import { FaInstagramSquare } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
+import { FaFacebookF } from "react-icons/fa";
+function Social({ icon, description }) {
+  return (
+    <section className="socials">
+      <p>
+        {icon} {description}
+      </p>
+    </section>
+  );
+}
+
 function Leaders() {
   return (
     <section className="Leaders">
@@ -48,6 +62,10 @@ function Leaders() {
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology, b.
           </p>
+          <div className="media"> 
+
+
+</div>
         </div>
         {/* ******************************************************************************************************* */}
       </div>
