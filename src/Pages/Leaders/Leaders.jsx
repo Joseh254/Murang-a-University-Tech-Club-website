@@ -1,5 +1,5 @@
 import "./Leaders.css";
-function Leaders() {
+function Leaders({LinkedIn, Twitter, Facebook, Instagram}) {
   return (
     <section className="Leaders">
       <div className="introduction">
