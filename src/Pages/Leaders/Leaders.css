@@ -14,7 +14,7 @@
 }
 
 .introduction p {
-  font-size: 1.5rem;
+  font-size: 1.9rem;
   display: flex;
   justify-content: center;
   padding-top: 2rem;
@@ -22,6 +22,7 @@
   padding-top: 3rem;
   background-color: var(--secondary_color);
   align-items: center;
+  padding-bottom: 2rem;
 }
 
 .introduction h1 {
@@ -89,7 +90,7 @@ transition: all .5s ease-in-out;
 
 
 .ndiaa{
-  width: 3rem;
+  width: 31rem;
   border: 1px darkgray solid;
   background-color: var(--secondary_color);
   display: flex;
@@ -98,7 +99,8 @@ transition: all .5s ease-in-out;
   justify-content: center;
   padding: 1rem;
   border-radius: 10%;
-  margin-top: 3rem;
+  margin-top: 4rem;
+  margin-left: 3rem;
   }
   
   .ndiaa img{
