@@ -25,6 +25,7 @@
   background-color: var(--secondary_color);
   color: white;
   padding-top: 2rem;
+  padding: 1.5rem;
 }
 
 .members h2 {

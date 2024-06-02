@@ -32,7 +32,7 @@ function Testimonies() {
         {/* *********************************************************************************************************** */}
 
         <div className="phyllis">
-          <h2>Phyllis Wambui</h2>
+          <h2>Emmah Njambi</h2>
           <p>
             "Joining the Murang'a University Tech Club was one of the best
             decisions I've made in my university journey. The hands-on
