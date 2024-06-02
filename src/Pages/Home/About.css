@@ -5,7 +5,7 @@
   display: flex;
   width: 100%;
   padding-top: 15rem;
-  gap: 10rem;
+  gap: 0m;
   padding-right: 1rem;
   line-height: 3rem;
 }
@@ -26,10 +26,26 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  color: white;
+  text-decoration: none;
+  font-size: 2rem;
   
+}
+
+.link{
+  color: white;
+}
+
+.vision{
+  display: block;
+  gap: 4rem;
+  height: 100%;
+  margin-bottom: 2rem;
 }
 
 .vision h1{
   color: var(--light_color);
   font-weight: 600;
 }
+
+

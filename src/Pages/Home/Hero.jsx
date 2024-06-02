@@ -9,7 +9,7 @@ function Hero() {
         training, learning, research, innovation, consultancy and community
         engagement for sustainable development.
       </p>
-      <Link to="/aboutus">About us</Link>
+      <Link to=".about">About us</Link>
     </section>
   );
 }

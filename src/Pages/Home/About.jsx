@@ -19,15 +19,24 @@ function About() {
         <p>Our social platforms</p>
       <div className="media"> 
 
-      <Social icon={<FaInstagramSquare />} description={<Link to="https://www.w3schools.com/tags/tag_select.asp" target="blank">Instagram</Link>} />
-        <Social icon={<FaFacebookF />} description={<Link to="https://www.w3schools.com/tags/tag_select.asp" target="blank">Facebook</Link>} />
-        <Social icon={<FaXTwitter />} description={<Link to="https://www.w3schools.com/tags/tag_select.asp" target="blank">Twitter</Link>} />
+      <Social icon={<FaInstagramSquare />} description={<Link to="https://github.com/Joseh254" target="blank" className="link">Instagram</Link>} />
+        <Social icon={<FaFacebookF />} description={<Link to="https://github.com/Joseh254" target="blank" className="link">Facebook</Link>} />
+        <Social icon={<FaXTwitter />} description={<Link to="https://github.com/Joseh254" target="blank" className="link">Twitter</Link>} />
       </div>
       </div>
 
       <div className="vision">
         <h1>About us</h1>
         <h2>Our vision</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
+          harum molestias rerum, numquam, consectetur in, reiciendis dolorem
+          inventore itaque temporibus sed ipsa! Molestias est obcaecati officia
+          deserunt odit non enim.
+        </p>
+
+
+        <h2>Our mission</h2>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
           harum molestias rerum, numquam, consectetur in, reiciendis dolorem
