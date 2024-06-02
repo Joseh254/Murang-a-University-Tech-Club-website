@@ -1,16 +1,4 @@
 import "./Leaders.css";
-import { FaSquareInstagram } from "react-icons/fa6";
-import { FaFacebookF } from "react-icons/fa";
-import { FaLinkedinIn } from "react-icons/fa";
-import { FaTwitter } from "react-icons/fa";
-
-
-function Leader({LinkedIn, Twitter, Facebook, Instagram, img,bio}){
-return(){
-  
-}
-}
-
 function Leaders() {
   return (
     <section className="Leaders">
