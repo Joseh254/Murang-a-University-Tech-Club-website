@@ -5,7 +5,7 @@ function Tracks() {
     <section className="tracks">
       <div className="introduct">
         <h1>This is a heading in track section</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error natus veniam impedit officiis architecto eveniet a quaerat deserunt repellat dicta! Aliquid repudiandae consectetur, temporibus quam corporis excepturi. Facere, eaque dolorem?</p>
+        <p>"Explore the diverse range of courses offered by the Murang'a University Tech Club (MUTC). From Cyber Security to Mobile App Development, our courses are designed to equip students with cutting-edge skills and knowledge in various tech fields, led by experienced professionals dedicated to your success</p>
       </div>
 
       {/* ********************************PART1**************************************************************** */}
@@ -56,7 +56,7 @@ function Tracks() {
 
 
 <div className="apply">
-  <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt impedit voluptas ea, quo at tempore aperiam natus delectus aut dolor pariatur culpa iusto suscipit ullam cupiditate magni praesentium cumque molestiae.</h1>
+  <h1>"Unlock your potential by enrolling in the course of your choice at Murang'a University Tech Club (MUTC). Whether you're passionate about Cyber Security, UI/UX Design, Web Development, or Mobile App Development, we have the perfect course for you. Join us and start your journey towards tech excellence today!</h1>
 </div>
 
 
@@ -104,7 +104,7 @@ function Tracks() {
     </form>
 
     <div className="quote">
-      <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur commodi itaque voluptates harum laudantium deleniti quisquam a alias omnis voluptas. Consequatur delectus reprehenderit explicabo nesciunt non expedita aut reiciendis iure.</h1>
+      <h1>"Programming isn't about what you know; it's about what you can figure out. The best coders are always learning, adapting, and finding new ways to solve problems. It's a journey of continuous discovery and innovation, driven by curiosity and the desire to create something amazing..</h1>
     </div>
 
   </section>
