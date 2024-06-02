@@ -61,6 +61,11 @@ transition: all .5s ease-in-out;
     height: 16vh;
     display: flex;
     justify-content: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    align-items: center;
 }    
 
 .form{
