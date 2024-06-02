@@ -14,7 +14,7 @@ function Events() {
     <section className="timetable">
 
       <div className="schedule">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor voluptas fugiat exercitationem ipsam magni nemo, sapiente debitis voluptate mollitia nisi dolorem dolore suscipit dignissimos repudiandae consequatur, assumenda eligendi veritatis non.</p>
+        <p>"Learning at Murang'a University Tech Club (MUTC) is structured to fit your busy schedule. Courses are offered throughout the week, with flexible evening classes from Monday to Friday. Each session is designed to provide intensive, hands-on learning experiences, ensuring you gain practical skills and knowledge efficiently.</p>
       </div>
         <div className="head">
         <div className="cyber">
