@@ -29,19 +29,13 @@ function About() {
         <h1>About us</h1>
         <h2>Our vision</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
-          harum molestias rerum, numquam, consectetur in, reiciendis dolorem
-          inventore itaque temporibus sed ipsa! Molestias est obcaecati officia
-          deserunt odit non enim.
+        "To become a leading hub of technological excellence and innovation within the university, inspiring future leaders in technology and driving impactful contributions to society
         </p>
 
 
         <h2>Our mission</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum
-          harum molestias rerum, numquam, consectetur in, reiciendis dolorem
-          inventore itaque temporibus sed ipsa! Molestias est obcaecati officia
-          deserunt odit non enim.
+        To Advance Knowledge And Technological Transfer Through Teaching, Training, Learning, Research, Innovation, Consultancy And Community Engagement For Sustainable Development.
         </p>
       </div>
     </div>
