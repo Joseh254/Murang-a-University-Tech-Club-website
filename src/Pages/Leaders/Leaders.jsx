@@ -45,7 +45,7 @@ function Leaders({fb,ig,x,ln}) {
           <img src="../src/assets/hero.jpg" alt="Victory Njeri" />
           <h1>Victory Njeri</h1>
           <p>
-            Dr. John Ndia is a distinguished professor and an esteemed patron of
+          Victory Njeri is a distinguished professor and an esteemed patron of
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology,
           </p>
@@ -60,7 +60,7 @@ function Leaders({fb,ig,x,ln}) {
           <img src="../src/assets/hero.jpg" alt="allan" />
           <h1>Allan Muhari</h1>
           <p>
-            Dr. John Ndia is a distinguished professor and an esteemed patron of
+          Allan Muhari is a distinguished professor and an esteemed patron of
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology,
           </p>
@@ -75,7 +75,7 @@ function Leaders({fb,ig,x,ln}) {
           <img src="../src/assets/hero.jpg" alt="bridget" />
           <h1>Bridget Gitonga</h1>
           <p>
-            Dr. John Ndia is a distinguished professor and an esteemed patron of
+          Bridget Gitonga is a distinguished professor and an esteemed patron of
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology, b.
           </p>
@@ -95,7 +95,7 @@ function Leaders({fb,ig,x,ln}) {
           <img src="../src/assets/hero.jpg" alt="Ruth Mutisya" />
           <h1>Ruth Mutisya</h1>
           <p>
-            Dr. John Ndia is a distinguished professor and an esteemed patron of
+          Ruth Mutisya is a distinguished professor and an esteemed patron of
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology,.
           </p>
@@ -112,7 +112,7 @@ function Leaders({fb,ig,x,ln}) {
           <img src="../src/assets/hero.jpg" alt="Webster Ifedha" />
           <h1>Webster Ifedha</h1>
           <p>
-            Dr. John Ndia is a distinguished professor and an esteemed patron of
+          Webster Ifedha is a distinguished professor and an esteemed patron of
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology,.
           </p>
@@ -131,7 +131,7 @@ function Leaders({fb,ig,x,ln}) {
           <img src="../src/assets/hero.jpg" alt="Manase Gunga" />
           <h1>Manase Gunga</h1>
           <p>
-            Dr. John Ndia is a distinguished professor and an esteemed patron of
+          Manase Gunga is a distinguished professor and an esteemed patron of
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology,
           </p>
@@ -152,7 +152,7 @@ function Leaders({fb,ig,x,ln}) {
           <img src="../src/assets/hero.jpg" alt="Carolyne Githenduka" />
           <h1>Carolyne Githenduka</h1>
           <p>
-            Dr. John Ndia is a distinguished professor and an esteemed patron of
+          Carolyne Githenduka is a distinguished professor and an esteemed patron of
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology, Dr. Ndia has been
             instrumental in guiding the club's activities and initiatives..
@@ -177,7 +177,7 @@ function Leaders({fb,ig,x,ln}) {
           <img src="../src/assets/hero.jpg" alt="Carolyne Githenduka" />
           <h1>Carolyne Githenduka</h1>
           <p>
-            Dr. John Ndia is a distinguished professor and an esteemed patron of
+           Carolyne Githenduka is a distinguished professor and an esteemed patron of
             the Murang'a University Tech Club. With over 20 years of experience
             in the field of computer science and technology, Dr. Ndia has been
             instrumental in guiding the club's activities and initiatives..
