@@ -76,6 +76,6 @@ transition: all .5s ease-in-out;
     padding: 2rem 1.5rem;
     color: black;
 }
-.contacts button{
+.button{
     height: 2rem;
 }
