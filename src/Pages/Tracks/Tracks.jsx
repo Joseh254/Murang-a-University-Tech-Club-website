@@ -90,7 +90,7 @@ function Tracks() {
   </div>
 
   <div>
-  <button id="submit" className="contacts" id="button"> Submit</button>
+  <button id="submit" className="contacts button" > Submit</button>
   </div>
     </form>
 

@@ -77,5 +77,15 @@ transition: all .5s ease-in-out;
     color: black;
 }
 .button{
-    height: 2rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    background-color: var(--primary_color);
+    color: var(--color_white);
+}
+
+.button:hover{
+    
 }
