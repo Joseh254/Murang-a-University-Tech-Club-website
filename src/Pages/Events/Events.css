@@ -1,7 +1,6 @@
 .timetable{
 display: flex;
 flex-direction: column;
-justify-content: center;
 background-color: var(--secondary_color);
 color: var(--primary-color);
 align-items: center;
@@ -15,8 +14,8 @@ width: 100%;
     flex-direction: row;
     align-items: center;
     gap: 2rem;
-    padding: 1rem;
-    gap: 10rem;
+    padding: 2rem;
+    gap: 1rem;
     width: 100%;
     background-color:var(--light_color);
 
