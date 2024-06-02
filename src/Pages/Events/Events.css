@@ -3,3 +3,11 @@
     flex-direction: column;
     background-color: var(--light_color);
 }
+
+.cyber{
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+    border: 2px solid red;
+    align-items: center;
+}
