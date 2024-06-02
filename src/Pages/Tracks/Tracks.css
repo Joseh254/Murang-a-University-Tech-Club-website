@@ -46,9 +46,16 @@ color: var(--color_white);
         padding: 2rem;
         border-radius: 10%;
         opacity: 2;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        line-height: 3rem;
+        margin-top: 3rem;
         
         
     }
+    .them_tracks{
+        color: #F2F597;
+    }
+
 
     .them_tracks:hover{
 background-color: var(--primary_color);
