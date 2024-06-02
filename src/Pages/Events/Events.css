@@ -1,26 +1,5 @@
 .timetable{
-display: flex;
-flex-direction: column;
-background-color: var(--secondary_color);
-color: var(--primary-color);
-align-items: center;
-width: 100%;
-
-
-}
-
-.cyber{
     display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 2rem;
-    padding: 2rem;
-    gap: 1rem;
-    width: 100%;
-    background-color:var(--light_color);
-
-}
-
-.cyber p{
-    color:var(--secondary_color);
+    flex-direction: column;
+    background-color: var(--light_color);
 }
