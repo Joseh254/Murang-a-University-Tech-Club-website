@@ -65,7 +65,19 @@ align-items: center;
 justify-content: center;
 padding: 1rem;
 border-radius: 10%;
+
 }
+
+.ndia p:hover{
+scale: 1.1;
+transition: all .5s ease-in-out;
+
+  }
+
+  .ndia h1:hover{
+    scale: .9;
+    
+      }
 
 .ndia img{
   height: 5rem;
