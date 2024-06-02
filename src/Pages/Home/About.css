@@ -5,19 +5,28 @@
   display: flex;
   width: 100%;
   padding-top: 15rem;
-  gap: 15rem;
+  gap: 10rem;
   padding-right: 1rem;
   line-height: 3rem;
 }
 
 .socials {
-  width: 60%;
+  width: 100%;
   margin: 0;
   display: flex;
   flex-direction: column;
+  padding-left: 3rem;
 }
 .socials p {
-  width: 40%;
+
+}
+
+.media{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
 }
 
 .vision h1{

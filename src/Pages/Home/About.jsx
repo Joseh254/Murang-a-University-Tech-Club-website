@@ -1,4 +1,5 @@
 import "./About.css";
+import { Link } from "react-router-dom";
 import { FaInstagramSquare } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaFacebookF } from "react-icons/fa";
@@ -16,9 +17,12 @@ function About() {
     <div className="about">
       <div className="socials">
         <p>Our social platforms</p>
-        <Social icon={<FaInstagramSquare />} description={"Instagram"} />
-        <Social icon={<FaFacebookF />} description={"facebook"} />
-        <Social icon={<FaXTwitter />} description={"Twitter"} />
+      <div className="media"> 
+
+      <Social icon={<FaInstagramSquare />} description={<Link to="https://www.w3schools.com/tags/tag_select.asp" target="blank">Instagram</Link>} />
+        <Social icon={<FaFacebookF />} description={<Link to="https://www.w3schools.com/tags/tag_select.asp" target="blank">Facebook</Link>} />
+        <Social icon={<FaXTwitter />} description={<Link to="https://www.w3schools.com/tags/tag_select.asp" target="blank">Twitter</Link>} />
+      </div>
       </div>
 
       <div className="vision">
