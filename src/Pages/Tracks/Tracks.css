@@ -66,6 +66,8 @@ transition: all .5s ease-in-out;
     padding-top: 1rem;
     padding-bottom: 1rem;
     align-items: center;
+    font-weight: 200;
+    font-size: 1rem;
 }    
 
 .form{
@@ -77,7 +79,7 @@ transition: all .5s ease-in-out;
 
 .quote{
     padding-top: 15rem;
-    padding-right: 5rem;
+    padding-right: 3rem;
     padding-left: 3rem;
     line-height: 3.9rem;
     font-style: italic;
