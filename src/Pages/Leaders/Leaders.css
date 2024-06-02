@@ -103,6 +103,9 @@ gap: 20rem;
   text-decoration: solid;
   text-overflow: ellipsis;
   text-decoration: none;
+  width: 40%;
+ padding-right: 8rem;
+ margin-right: 7rem;
 }
 
 
