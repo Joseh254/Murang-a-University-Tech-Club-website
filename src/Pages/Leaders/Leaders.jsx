@@ -107,6 +107,7 @@ function Leaders() {
 
         {/* ******************************************************************************************** */}
 
+        <div className="bottom">
         <div className="ndiaa">
           <img src="../src/assets/hero.jpg" alt="Carolyne Githenduka" />
           <h1>Carolyne Githenduka</h1>
@@ -116,6 +117,11 @@ function Leaders() {
             in the field of computer science and technology, Dr. Ndia has been
             instrumental in guiding the club's activities and initiatives..
           </p>
+        </div>
+
+        <div className="aquote">
+          <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et dolores atque esse. Sed cum corrupti delectus asperiores itaque, consequatur minus possimus dolorem sint ducimus iste, blanditiis corporis atque. Consequuntur, nemo.</h1>
+        </div>
         </div>
 
         {/* ********************************************************************************************8 */}

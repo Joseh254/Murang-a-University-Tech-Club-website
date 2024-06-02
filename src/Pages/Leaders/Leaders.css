@@ -1,7 +1,7 @@
 .Leaders {
   background-color: var(--primary_color);
   color: var(--color_white);
-  height: 200vh;
+  height: 150vh;
   display: block;
   align-items: center;
   justify-content: center;
@@ -87,10 +87,24 @@ transition: all .5s ease-in-out;
 }
 
 
+.bottom{
+
+display: flex;
+justify-content: space-between;
+gap: 20rem;
+}
+
+.aquote{
+
+  margin-top: 10rem;
+  font-size: larger;
+}
+
 
 
 .ndiaa{
-  width: 31rem;
+  min-width: 31rem;
+  max-width:31rem;
   border: 1px darkgray solid;
   background-color: var(--secondary_color);
   display: flex;
@@ -111,6 +125,6 @@ transition: all .5s ease-in-out;
 
   .ndiaa p:hover{
    scale: 1.07;
-   transition: all .5s;
+   transition: all .5s ease-in;
    
     }
