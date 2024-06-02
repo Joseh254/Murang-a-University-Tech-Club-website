@@ -14,6 +14,7 @@ function Topheader() {
     <>
       <section className="topHeader">
         <div className="welcome">
+          <img src="src\assets\logo.jpeg" alt="logo" />
           <h1>Murang'a University Tech Club</h1>
         </div>
         <div className="accounts">

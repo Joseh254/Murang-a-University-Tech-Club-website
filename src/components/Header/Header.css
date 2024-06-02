@@ -9,6 +9,12 @@
   padding-bottom: 2rem;
 }
 
+.topHeader img{
+  height: 6rem;
+  width: 6rem;
+  border-radius: 100%;
+}
+
 @media screen and (max-width: 44.375em) {
   .topHeader {
     display: flex;
@@ -18,7 +24,8 @@
   }
 
   .welcome {
-    margin-bottom: 1rem;
+
+background-color: var(--primary_color);    margin-bottom: 1rem;
     justify-content: center;
   }
 }
