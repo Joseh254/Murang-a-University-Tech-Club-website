@@ -192,7 +192,7 @@ function Leaders({fb,ig,x,ln}) {
         </div>
 
         <div className="aquote">
-          <h7>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et dolores atque esse. Sed cum corrupti delectus asperiores itaque, consequatur minus possimus dolorem sint ducimus iste, blanditiis corporis atque. Consequuntur, nemo.</h7>
+          <h7>"Meet the dedicated leaders of the Murang'a University Tech Club (MUTC). Each member of our leadership team brings a wealth of experience, innovation, and passion, driving the club towards excellence and fostering a thriving tech community.</h7>
         </div>
         </div>
 
