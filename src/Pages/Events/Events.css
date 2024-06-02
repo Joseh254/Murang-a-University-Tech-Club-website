@@ -10,4 +10,16 @@
     gap: 3rem;
     border: 2px solid red;
     align-items: center;
+    width: 80%;
+    margin-left: 10rem;
+    padding: 2rem;
+}
+
+.schedule{
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--primary_color);
+    color:var(--color_white);
 }

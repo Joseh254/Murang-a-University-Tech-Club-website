@@ -12,6 +12,10 @@ function Locations({ venue }) {
 function Events() {
   return (
     <section className="timetable">
+
+      <div className="schedule">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor voluptas fugiat exercitationem ipsam magni nemo, sapiente debitis voluptate mollitia nisi dolorem dolore suscipit dignissimos repudiandae consequatur, assumenda eligendi veritatis non.</p>
+      </div>
         <div className="head">
         <div className="cyber">
         <div className="time">
@@ -25,7 +29,7 @@ function Events() {
         </div>
       </div>
         </div>
-        
+
       {/* ****************************************************************** */}
       <div className="foot">
       <div className="cyber">
