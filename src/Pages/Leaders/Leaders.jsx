@@ -54,7 +54,7 @@ function Leaders() {
 
       <div className="ourleaders">
         <div className="ndia">
-          <img src="" alt="Ruth Mutisya" />
+          <img src="../src/assets/hero.jpg" alt="Ruth Mutisya" />
           <h1>Ruth Mutisya</h1>
           <p>
             Dr. John Ndia is a distinguished professor and an esteemed patron of
@@ -103,21 +103,11 @@ function Leaders() {
 
         {/* ********************************************************************************************8 */}
       </div>
-      <div className="ndia">
-        <div className="stanley">
-          <img src="../src/assets/hero.jpg" alt="Stanley Amunze" />
-          <h1>Stanley Amunze</h1>
-          <p>
-            Dr. John Ndia is a distinguished professor and an esteemed patron of
-            the Murang'a University Tech Club. With over 20 years of experience
-            in the field of computer science and technology, Dr. Ndia has been
-            instrumental in guiding the club's activities and initiatives.
-          </p>
-        </div>
+    
 
         {/* ******************************************************************************************** */}
 
-        <div className="ndia">
+        <div className="ndiaa">
           <img src="../src/assets/hero.jpg" alt="Carolyne Githenduka" />
           <h1>Carolyne Githenduka</h1>
           <p>
@@ -129,7 +119,7 @@ function Leaders() {
         </div>
 
         {/* ********************************************************************************************8 */}
-      </div>
+      
 
       {/* ********************************************************************************************8 */}
     </section>
