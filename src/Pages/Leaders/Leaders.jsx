@@ -1,8 +1,8 @@
 import "./Leaders.css";
-import { Link } from "react-router-dom";
 import { FaInstagramSquare } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaFacebookF } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa6";
 function Social({ icon, description }) {
   return (
     <section className="socials">
@@ -36,7 +36,7 @@ function Leaders({fb,ig,x,ln}) {
 
           <div className="iconss">
           <Social icon ={<FaFacebookF/>}/>
-            <Social icon ={<FaInstagramSquare/>}/>
+            <Social icon ={<FaLinkedin/>}/>
             <Social icon ={<FaXTwitter/>}/> 
           </div>
         </div>
@@ -50,9 +50,9 @@ function Leaders({fb,ig,x,ln}) {
             in the field of computer science and technology,
           </p>
           <div className="iconss">
-          <Social icon ={<FaFacebookF/>}/>
-            <Social icon ={<FaInstagramSquare/>}/>
-            <Social icon ={<FaXTwitter/>}/> 
+
+            <Social icon ={<FaXTwitte/>}/>
+            <Social icon ={<FaLinkedin/>}/> 
           </div>
         </div>
         {/* ****************************************************************************************************8 */}
