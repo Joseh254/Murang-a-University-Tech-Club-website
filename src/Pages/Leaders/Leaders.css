@@ -124,10 +124,12 @@ gap: 20rem;
   text-decoration: solid;
   text-overflow: ellipsis;
   text-decoration: none;
-  width: 40%;
+  width: 70%;
  padding-right: 8rem;
  margin-right: 7rem;
  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ line-height: 4rem;
+line-gap-override: 2rem;
 }
 
 
