@@ -78,7 +78,7 @@ function Tracks() {
 
   <div className="contacts" id="tracks">
   <label htmlFor="selecttracks">Select Your Desired Track</label>
-   <select name="Cyber Security" id="courses">
+   <select name="Cyber Security" id="courses" className="contacts">
     <option value="Cyber Security">Cyber Security</option>
     <option value="UI/UX design">UI/UX design</option>
     <option value="Web development">Web development</option>
@@ -90,7 +90,7 @@ function Tracks() {
   </div>
 
   <div>
-  <button id="submit">Submit</button>
+  <button id="submit" className="contacts" id="button"> Submit</button>
   </div>
     </form>
 
