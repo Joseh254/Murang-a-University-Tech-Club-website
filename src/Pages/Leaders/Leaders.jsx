@@ -51,7 +51,7 @@ function Leaders({fb,ig,x,ln}) {
           </p>
           <div className="iconss">
 
-            <Social icon ={<FaXTwitte/>}/>
+          <Social icon ={<FaXTwitter/>}/>
             <Social icon ={<FaLinkedin/>}/> 
           </div>
         </div>
@@ -121,6 +121,7 @@ function Leaders({fb,ig,x,ln}) {
           <Social icon ={<FaFacebookF/>}/>
             <Social icon ={<FaInstagramSquare/>}/>
             <Social icon ={<FaXTwitter/>}/> 
+            <Social icon ={<FaLinkedin/>}/> 
           </div>
         </div>
 
@@ -138,7 +139,8 @@ function Leaders({fb,ig,x,ln}) {
           <div className="iconss">
           <Social icon ={<FaFacebookF/>}/>
             <Social icon ={<FaInstagramSquare/>}/>
-            <Social icon ={<FaXTwitter/>}/> 
+            <Social icon ={<FaXTwitter/>}/>
+            <Social icon ={<FaLinkedin/>}/>  
           </div>
         </div>
 
@@ -160,6 +162,7 @@ function Leaders({fb,ig,x,ln}) {
           <Social icon ={<FaFacebookF/>}/>
             <Social icon ={<FaInstagramSquare/>}/>
             <Social icon ={<FaXTwitter/>}/> 
+            <Social icon ={<FaLinkedin/>}/> 
           </div>
         </div>
 
@@ -183,7 +186,8 @@ function Leaders({fb,ig,x,ln}) {
           <div className="iconss">
           <Social icon ={<FaFacebookF/>}/>
             <Social icon ={<FaInstagramSquare/>}/>
-            <Social icon ={<FaXTwitter/>}/> 
+            <Social icon ={<FaXTwitter/>}/>
+            <Social icon ={<FaLinkedin/>}/>  
           </div>
         </div>
 
