@@ -5,6 +5,7 @@ justify-content: center;
 background-color: var(--secondary_color);
 color: var(--primary-color);
 align-items: center;
+width: 100%;
 
 
 }
@@ -12,13 +13,11 @@ align-items: center;
 .cyber{
     display: flex;
     flex-direction: row;
-    
     align-items: center;
     gap: 2rem;
-    border: 2px solid red;
     padding: 1rem;
     gap: 10rem;
-    width: 50%;
+    width: 100%;
     background-color:var(--light_color);
 
 }

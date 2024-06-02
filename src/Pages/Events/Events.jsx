@@ -12,7 +12,8 @@ function Locations({ venue }) {
 function Events() {
   return (
     <section className="timetable">
-      <div className="cyber">
+        <div className="head">
+        <div className="cyber">
         <div className="time">
           <p>4pm - 7pm</p>
           <h3>Monday</h3>
@@ -23,7 +24,10 @@ function Events() {
           <Locations venue="lab F04" />
         </div>
       </div>
+        </div>
+        
       {/* ****************************************************************** */}
+      <div className="foot">
       <div className="cyber">
         <div className="time">
           <p>5pm - 8pm</p>
@@ -35,7 +39,10 @@ function Events() {
           <Locations venue="lab F04" />
         </div>
       </div>
+      </div>
+
       {/* ****************************************************************** **/}
+      <div className="head">
       <div className="cyber">
         <div className="time">
           <p>6pm - 9pm</p>
@@ -47,7 +54,10 @@ function Events() {
           <Locations venue="lab F04" />
         </div>
       </div>
+      </div>
+
       {/* ****************************************************************** */}
+      <div className="foot">
       <div className="cyber">
         <div className="time">
           <p>4pm - 7pm</p>
@@ -59,7 +69,10 @@ function Events() {
           <Locations venue="lab F04" />
         </div>
       </div>
+      </div>
+
       {/* ****************************************************************** */}
+      <div className="head">
       <div className="cyber">
         <div className="time">
           <p>3pm - 6pm</p>
@@ -71,8 +84,11 @@ function Events() {
           <Locations venue="lab F04" />
         </div>
       </div>
+      </div>
+
       {/* ****************************************************************** */}
-      <div className="cyber">
+        <div className="foot">
+        <div className="cyber">
         <div className="time">
           <p>1pm - 4pm</p>
           <h3>Monday</h3>
@@ -83,6 +99,8 @@ function Events() {
           <Locations venue="lab F04" />
         </div>
       </div>
+        </div>
+
       {/* ****************************************************************** */}
     </section>
   );
