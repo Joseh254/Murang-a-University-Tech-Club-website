@@ -55,10 +55,23 @@ transition: all .5s ease-in-out;
 
     }
 
+.apply{
+    background-color: var(--primary_color);
+    color: var(--color_white);
+    padding: 2rem;
+}    
+
 .form{
     display: flex;
     flex-direction: row-reverse;
-}    
+   background-color: aliceblue;
+}  
+
+.quote{
+    padding-top: 15rem;
+    padding-right: 5rem;
+    padding-left: 3rem;
+}
 
 
 .contacts{
@@ -67,6 +80,7 @@ transition: all .5s ease-in-out;
     width: 50rem;
     gap: .7rem;
     margin-bottom: 2rem;
+    padding-right: 3rem;
 }
 
 .contacts label{
@@ -90,6 +104,7 @@ transition: all .5s ease-in-out;
     background-color: var(--primary_color);
     color: var(--color_white);
     font-weight: 400;
+    padding-right: 3rem;
   
 }
 
