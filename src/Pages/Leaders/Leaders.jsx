@@ -107,7 +107,7 @@ function Leaders() {
 
         {/* ******************************************************************************************** */}
 
-        <div className="ndiaa">
+        <div className="ndia">
           <img src="../src/assets/hero.jpg" alt="Carolyne Githenduka" />
           <h1>Carolyne Githenduka</h1>
           <p>
