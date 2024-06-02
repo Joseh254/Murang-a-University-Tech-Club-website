@@ -55,6 +55,11 @@ transition: all .5s ease-in-out;
 
     }
 
+.form{
+    display: flex;
+    flex-direction: row-reverse;
+}    
+
 
 .contacts{
     display: flex;

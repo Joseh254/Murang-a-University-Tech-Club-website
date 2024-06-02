@@ -94,6 +94,10 @@ function Tracks() {
   </div>
     </form>
 
+    <div className="quote">
+      <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur commodi itaque voluptates harum laudantium deleniti quisquam a alias omnis voluptas. Consequatur delectus reprehenderit explicabo nesciunt non expedita aut reiciendis iure.</h1>
+    </div>
+
   </section>
 {/* *************************************************************************8 */}
     </section>
